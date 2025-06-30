@@ -64,7 +64,7 @@
 </div>
 
 <!-- Auth Table -->
-<table style="width: 900px; margin: 20px auto; border-collapse: collapse; font-size: 15px; border: 1px solid #ddd;">
+<table style="width: 80%; margin: 20px auto; border-collapse: collapse; font-size: 15px; border: 1px solid #ddd;">
   <thead>
     <tr style="background: #f2f2f2;">
       <th style="padding: 12px 20px; text-align: left;">Field</th>
@@ -74,11 +74,11 @@
   <tbody>
     <tr>
       <td style="padding: 12px 20px;">Username</td>
-      <td style="padding: 12px 20px;"><input type="text" readonly value="<inject key='AzureAdUserEmail' />" /></td>
+      <td style="padding: 12px 20px;"><inject key="AzureAdUserEmail" /></td>
     </tr>
     <tr>
       <td style="padding: 12px 20px;">Password</td>
-      <td style="padding: 12px 20px;"><input type="text" readonly value="<inject key='AzureAdUserPassword' />" /></td>
+      <td style="padding: 12px 20px;"><inject key="AzureAdUserPassword" /></td>
     </tr>
   </tbody>
 </table>
