@@ -1,142 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Fabric Demo Setup</title>
-  <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 40px;
-      display: flex;
-      justify-content: center;
-    }
+<h2 style="color: #333;">📄 Description</h2>
+<p style="font-size:14px; color:#444;">
+In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the future of integration and innovation with <strong>Microsoft Fabric</strong>.
+</p>
+<ul style="font-size:14px; color:#444;">
+  <li>Seamless collaboration enabled by <strong>OneLake</strong>, providing unified storage for innovation and teamwork.</li>
+  <li>Intelligent <strong>Copilot</strong> in Data Warehouse, Data Science, and Real-Time Experience to assist coding needs.</li>
+  <li>Enhanced data reliability with <strong>Database Mirroring</strong> and <strong>Shortcuts</strong> for secure data flow.</li>
+  <li><strong>Data Activator</strong> triggers real-time alerts by monitoring activity continuously.</li>
+  <li><strong>Power BI Copilot</strong> elevates business and technical insights for users.</li>
+</ul>
 
-    .container {
-      width: 90%;
-      max-width: 1100px;
-      background: white;
-      border-radius: 8px;
-      padding: 30px;
-      box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
-    }
+<div style="background:#f8f9fa; padding:10px; border-left:4px solid #0078d4; margin:20px 0;">
+  <strong>IMPORTANT:</strong><br>
+  Please launch the demo <strong>15 minutes before presenting</strong>. Resources may take a few minutes to provision.<br>
+  ODL access provisioning may take <strong>5–7 minutes</strong>.<br>
+  If unauthorized errors occur, wait a few minutes and then <strong>Ctrl + Shift + R</strong> to refresh.
+</div>
 
-    h2 {
-      margin-top: 0;
-      color: #333;
-    }
+<table style="width:100%; border-collapse:collapse; font-size:14px;">
+  <thead>
+    <tr style="background:#f2f2f2;">
+      <th style="text-align:left; padding:8px;">Auth Fields</th>
+      <th style="text-align:left; padding:8px;">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px;">Username</td>
+      <td style="padding:8px;">odl_user_1779622@cloudlabsai.ms</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">Password</td>
+      <td style="padding:8px;">gzkg26YCN*pX</td>
+    </tr>
+  </tbody>
+</table>
 
-    p {
-      font-size: 15px;
-      color: #444;
-      line-height: 1.6;
-    }
+<br>
 
-    .highlight {
-      background-color: #f8f9fa;
-      padding: 10px 15px;
-      border-left: 4px solid #0078d4;
-      margin: 20px 0;
-      color: #444;
-      font-size: 14px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 30px;
-    }
-
-    th, td {
-      padding: 14px 16px;
-      text-align: left;
-      border-bottom: 1px solid #e0e0e0;
-    }
-
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-      color: #333;
-    }
-
-    .section-header {
-      background-color: #f2f2f2;
-      font-weight: bold;
-      padding: 12px 16px;
-      border-top: 1px solid #e0e0e0;
-      border-bottom: 1px solid #e0e0e0;
-    }
-
-    code {
-      background-color: #eee;
-      padding: 3px 6px;
-      border-radius: 4px;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="container">
-    <h2>📄 Description</h2>
-    <p>
-      In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the future of integration and innovation with <strong>Microsoft Fabric</strong>.
-    </p>
-    <ul style="margin-left: 20px; color: #444;">
-      <li>Seamless collaboration enabled by <strong>OneLake</strong>, providing a unified storage for innovation and teamwork.</li>
-      <li>Experience the intelligence of <strong>Copilot</strong> in Data Warehouse, Data Science, and Real-Time Experience, offering coding assistance that transcends expectations.</li>
-      <li>Marvel at the enhanced data reliability brought by <strong>Database Mirroring</strong> and <strong>Shortcuts</strong>, ensuring a secure and continuous flow of information.</li>
-      <li>Contoso utilizes <strong>real-time intelligence</strong> and takes proactive measures by leveraging <strong>Data Activator</strong> to monitor data and trigger alerts.</li>
-      <li>The intelligently crafted <strong>Power BI Copilot</strong> enhances proficiency in both business intelligence and coding domains.</li>
-    </ul>
-
-    <div class="highlight">
-      <strong>IMPORTANT:</strong><br>
-      Please launch the demo <strong>15 minutes prior to presenting</strong>. Some resources may take a few minutes to provision.<br>
-      Provisioning ODL user access may take <strong>5 to 7 minutes</strong>.<br>
-      If you receive unauthorized error messages on any resources, wait a few minutes and then hard refresh (<code>Ctrl + Shift + R</code>) the page.
-    </div>
-
-    <div class="section-header">Auth Fields</div>
-    <table>
-      <tr>
-        <th>Username</th>
-        <td>odl_user_1779622@cloudlabsai.ms</td>
-      </tr>
-      <tr>
-        <th>Password</th>
-        <td>gzkg26YCN*pX</td>
-      </tr>
-    </table>
-
-    <div class="section-header">Resource Group</div>
-    <table>
-      <tr>
-        <th>Resource Group</th>
-        <td>ODL-Fabric-1779622</td>
-      </tr>
-    </table>
-
-    <div class="section-header">Key</div>
-    <table>
-      <tr>
-        <th>Web App Link</th>
-        <td><a href="https://app-fabric-demo-4-prod.azurewebsites.net/" target="_blank">https://app-fabric-demo-4-prod.azurewebsites.net/</a></td>
-      </tr>
-      <tr>
-        <th>Microsoft Fabric Workspace</th>
-        <td><a href="https://app.powerbi.com/home?experience=fabric" target="_blank">https://app.powerbi.com/home?experience=fabric</a></td>
-      </tr>
-      <tr>
-        <th>Teams Login Username</th>
-        <td>DemoUser1@CloudLabsAloutlook.onmicrosoft.com</td>
-      </tr>
-      <tr>
-        <th>Teams Login Password</th>
-        <td>Demou$e673&Fhj</td>
-      </tr>
-    </table>
-  </div>
-
-</body>
-</html>
+<table style="width:100%; border-collapse:collapse; font-size:14px;">
+  <thead>
+    <tr style="background:#f2f2f2;">
+      <th style="text-align:left; padding:8px;">Key</th>
+      <th style="text-align:left; padding:8px;">Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:8px;">Web App Link</td>
+      <td style="padding:8px;"><a href="https://app-fabric-demo-4-prod.azurewebsites.net" target="_blank">https://app-fabric-demo-4-prod.azurewebsites.net</a></td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">Microsoft Fabric Workspace</td>
+      <td style="padding:8px;"><a href="https://app.powerbi.com/home?experience=fabric" target="_blank">https://app.powerbi.com/home?experience=fabric</a></td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">Teams Login Username</td>
+      <td style="padding:8px;">DemoUser1@CloudLabsAloutlook.onmicrosoft.com</td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">Teams Login Password</td>
+      <td style="padding:8px;">Demou$e673&Fhj</td>
+    </tr>
+  </tbody>
+</table>
