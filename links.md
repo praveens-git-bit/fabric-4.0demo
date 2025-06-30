@@ -22,11 +22,11 @@
   </div>
 
   <!-- Auth Table (Styled to match below) -->
-  <table style="width: 100%; border-collapse: collapse; font-size: 15px; margin: 30px 0; border: 1px solid #ddd;">
+  <table style="width: 150px; border-collapse: collapse; font-size: 15px; margin: 30px 0; border: 1px solid #ddd;">
     <thead>
       <tr style="background: #f2f2f2;">
-        <th style="padding: 12px 20px; text-align: left; width: 30%;">Field</th>
-        <th style="padding: 12px 20px; text-align: left; width: 70%;">Value</th>
+        <th style="padding: 12px 20px; text-align: left; width: 150px;">Field</th>
+        <th style="padding: 12px 20px; text-align: left; width: 150px;">Value</th>
       </tr>
     </thead>
     <tbody>
