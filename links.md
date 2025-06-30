@@ -26,13 +26,13 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px;">Username</td>
-      <td style="padding:8px;">gzkg26YCN*pX</td>
+      <td style="padding:8px;">Username                                  </td>
+      <td style="padding:8px;">gzkg26YCN*pX                              </td>
       </td>
     </tr>
     <tr>
-      <td style="padding:8px;">Password</td>
-      <td style="padding:8px;">gzkg26YCN*pX</td>
+      <td style="padding:8px;">Password                                  </td>
+      <td style="padding:8px;">gzkg26YCN*pX                              </td>
     </tr>
   </tbody>
 </table>
