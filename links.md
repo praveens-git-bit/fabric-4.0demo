@@ -31,11 +31,14 @@
 
   .highlight-box {
     background: #f8f9fa;
-    padding: 12px 16px;
+    padding: 12px 24px 12px 32px; /* Top, Right, Bottom, Left */
     border-left: 4px solid #0078d4;
     margin: 20px auto;
     font-size: 14px;
-    width: 80%;
+    text-align: left;
+}
+
+
   }
 </style>
 
@@ -61,21 +64,21 @@
 </div>
 
 <!-- Auth Table -->
-<table>
+table style="width: 80%; margin: 20px auto; border-collapse: collapse; font-size: 15px; border: 1px solid #ddd;">
   <thead>
-    <tr>
-      <th>Field</th>
-      <th>Value</th>
+    <tr style="background: #f2f2f2;">
+      <th style="padding: 12px 20px; text-align: left; width: 900px;">Field</th>
+      <th style="padding: 12px 20px; text-align: left; width: 900px;">Value</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Username</td>
-      <td><inject key="AzureAdUserEmail" /></td>
+      <td width: 900px style="padding: 12px 20px;">Username</td>
+      <td width: 900px style="padding: 12px 20px;"><inject key="AzureAdUserEmail" /></td>
     </tr>
     <tr>
-      <td>Password</td>
-      <td><inject key="AzureAdUserPassword" /></td>
+      <td width: 900px style="padding: 12px 20px;">Password</td>
+      <td width: 900px style="padding: 12px 20px;"><inject key="AzureAdUserPassword" /></td>
     </tr>
   </tbody>
 </table>
