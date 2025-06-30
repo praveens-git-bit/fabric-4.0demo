@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td style="padding: 12px 20px;">Password</td>
-      <td style="padding: 12px 20px;"><input type="text" readonly value="<inject key="AzureAdUserPassword" />" /></td>
+      <td style="padding: 12px 20px;"><input type="text" readonly value="<inject key='AzureAdUserPassword' />" /></td>
     </tr>
   </tbody>
 </table>
