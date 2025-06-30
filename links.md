@@ -23,7 +23,6 @@
   }
 
   .description {
-    max-width: 900px;
     margin: 0 auto;
     font-family: 'Segoe UI', sans-serif;
     font-size: 14px;
@@ -72,11 +71,11 @@
   <tbody>
     <tr>
       <td>Username</td>
-      <td><inject key="AzureAdUserEmail"></inject></td>
+      <td><inject key="AzureAdUserEmail" /></td>
     </tr>
     <tr>
       <td>Password</td>
-      <td><inject key="AzureAdUserPassword"></td>
+      <td><inject key="AzureAdUserPassword" /></td>
     </tr>
   </tbody>
 </table>
