@@ -15,7 +15,7 @@
   }
 
   td {
-    width: 150px;
+    width: 900px;
     height: 10px;
     padding: 10px;
     text-align: center;
