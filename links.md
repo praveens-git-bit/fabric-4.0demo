@@ -17,17 +17,18 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
   If unauthorized errors occur, wait a few minutes and then <strong>Ctrl + Shift + R</strong> to refresh.
 </div>
 
-<table style="width:300%; border-collapse:collapse; font-size:14px;">
+<table style="width: 100%; border-collapse: collapse; font-size: 15px; margin: 30px auto;">
   <thead>
-    <tr style="background:#f2f2f2;">
-      <th style="text-align:left; padding:8px;">Auth Fields</th>
-      <th style="text-align:left; padding:8px;">Value</th>
+    <tr style="background: #f2f2f2;">
+      <th style="padding: 14px; text-align: left;">Field</th>
+      <th style="padding: 14px; text-align: left;">Value</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan="1000" style="padding:8px;">Username</td>
-      <td style="padding:8px;">odl_user_1779622@cloudlabsai.ms</td>
+      <td colspan="2" style="padding: 16px; background: #eef1f5; font-weight: bold;">
+        Username: odl_user_1779622@cloudlabsai.ms
+      </td>
     </tr>
     <tr>
       <td colspan="1000" style="padding:8px;">Password</td>
