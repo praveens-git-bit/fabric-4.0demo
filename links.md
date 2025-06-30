@@ -26,11 +26,11 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
   </thead>
   <tbody>
     <tr>
-      <td colspan="100" style="padding:8px;">Username</td>
+      <td colspan="-100" style="padding:8px;">Username</td>
       <td style="padding:8px;">odl_user_1779622@cloudlabsai.ms</td>
     </tr>
     <tr>
-      <td colspan="100" style="padding:8px;">Password</td>
+      <td colspan="-100" style="padding:8px;">Password</td>
       <td style="padding:8px;">gzkg26YCN*pX</td>
     </tr>
   </tbody>
