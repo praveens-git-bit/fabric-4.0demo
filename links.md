@@ -20,17 +20,17 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
 <table style="width:300%; border-collapse:collapse; font-size:14px;">
   <thead>
     <tr style="background:#f2f2f2;">
-      <th style="text-align:left; padding:20px;">Auth Fields</th>
-      <th style="text-align:left; padding:20px;">Value</th>
+      <th style="text-align:left; padding:8px;">Auth Fields</th>
+      <th style="text-align:left; padding:8px;">Value</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding:8px;">Username</td>
+      <td colspan="5" style="padding:8px;">Username</td>
       <td style="padding:8px;">odl_user_1779622@cloudlabsai.ms</td>
     </tr>
     <tr>
-      <td style="padding:8px;">Password</td>
+      <td colspan="5" style="padding:8px;">Password</td>
       <td style="padding:8px;">gzkg26YCN*pX</td>
     </tr>
   </tbody>
