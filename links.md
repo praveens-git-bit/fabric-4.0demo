@@ -31,12 +31,12 @@
     </thead>
     <tbody>
       <tr>
-        <td style="padding:12px 20px;">Username</td>
-        <td style="padding:12px 20px;">gzkg26YCN*pX</td>
+        <td width: 150px style="padding:12px 20px;">Username</td>
+        <td width: 150px style="padding:12px 20px;">gzkg26YCN*pX</td>
       </tr>
       <tr>
-        <td style="padding:12px 20px;">Password</td>
-        <td style="padding:12px 20px;">gzkg26YCN*pX</td>
+        <td width: 150px style="padding:12px 20px;">Password</td>
+        <td width: 150px style="padding:12px 20px;">gzkg26YCN*pX</td>
       </tr>
     </tbody>
   </table>
