@@ -10,7 +10,7 @@
   th {
     background: #f2f2f2;
     padding: 10px;
-    text-align: center;
+    text-align: left;
     border: 1px solid #ddd;
   }
 
@@ -18,7 +18,7 @@
     width: 900px;
     height: 10px;
     padding: 10px;
-    text-align: center;
+    text-align: left;
     border: 1px solid #ddd;
   }
 
@@ -72,11 +72,11 @@
   <tbody>
     <tr>
       <td>Username</td>
-      <td>gzkg26YCN*pX</td>
+      <td><inject key="AzureAdUserEmail"></inject></td>
     </tr>
     <tr>
       <td>Password</td>
-      <td>gzkg26YCN*pX</td>
+      <td><inject key="AzureAdUserPassword"></td>
     </tr>
   </tbody>
 </table>
