@@ -20,8 +20,8 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
 <table style="width:300%; border-collapse:collapse; font-size:14px;">
   <thead>
     <tr style="background:#f2f2f2;">
-      <th style="text-align:left; padding:8px;">Auth Fields</th>
-      <th style="text-align:left; padding:8px;">Value</th>
+      <th style="text-align:left; padding:20px;">Auth Fields</th>
+      <th style="text-align:left; padding:20px;">Value</th>
     </tr>
   </thead>
   <tbody>
