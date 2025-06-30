@@ -13,7 +13,7 @@
     <li><strong>Power BI Copilot</strong> elevates business and technical insights for users.</li>
   </ul>
 
-  <!-- Important Note -->
+  <!-- Important Box -->
   <div style="background:#f8f9fa; padding:12px 16px; border-left:4px solid #0078d4; margin:20px 0; font-size: 14px;">
     <strong>IMPORTANT:</strong><br>
     Please launch the demo <strong>15 minutes before presenting</strong>. Resources may take a few minutes to provision.<br>
@@ -21,7 +21,7 @@
     If unauthorized errors occur, wait a few minutes and then press <strong>Ctrl + Shift + R</strong> to refresh.
   </div>
 
-  <!-- Auth Table -->
+  <!-- Auth Table (Styled to match below) -->
   <table style="width: 100%; border-collapse: collapse; font-size: 15px; margin: 30px 0; border: 1px solid #ddd;">
     <thead>
       <tr style="background: #f2f2f2;">
@@ -41,7 +41,7 @@
     </tbody>
   </table>
 
-  <!-- Demo Resource Table -->
+  <!-- Main Links Table -->
   <table style="width: 100%; border-collapse: collapse; font-size: 15px; margin-bottom: 40px; border: 1px solid #ddd;">
     <thead>
       <tr style="background: #f2f2f2;">
