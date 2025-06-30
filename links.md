@@ -17,7 +17,7 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
   If unauthorized errors occur, wait a few minutes and then <strong>Ctrl + Shift + R</strong> to refresh.
 </div>
 
-<table style="width:100%; border-collapse:collapse; font-size:14px;">
+<table style="width:300%; border-collapse:collapse; font-size:14px;">
   <thead>
     <tr style="background:#f2f2f2;">
       <th style="text-align:left; padding:8px;">Auth Fields</th>
