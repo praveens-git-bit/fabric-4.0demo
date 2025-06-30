@@ -74,11 +74,11 @@
   <tbody>
     <tr>
       <td style="padding: 12px 20px;">Username</td>
-      <td style="padding: 12px 20px;"><inject key="AzureAdUserEmail" /></td>
+      <td style="padding: 12px 20px;"><input type="text" readonly value="<inject key='AzureAdUserEmail' />" /></td>
     </tr>
     <tr>
       <td style="padding: 12px 20px;">Password</td>
-      <td style="padding: 12px 20px;"><inject key="AzureAdUserPassword" /></td>
+      <td style="padding: 12px 20px;"><input type="text" readonly value="<inject key="AzureAdUserPassword" />" /></td>
     </tr>
   </tbody>
 </table>
