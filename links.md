@@ -26,8 +26,8 @@ In this demonstration, you'll witness how <strong>Contoso</strong> unfolds the f
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="padding: 16px; background: #eef1f5; font-weight: bold;">
-        Username: odl_user_1779622@cloudlabsai.ms
+      <td colspan="1000" style="padding:8px;">Username</td>
+      <td style="padding:8px;">gzkg26YCN*pX</td>
       </td>
     </tr>
     <tr>
