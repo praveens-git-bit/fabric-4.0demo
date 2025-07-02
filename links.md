@@ -98,13 +98,5 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td>Teams Login Username</td>
-      <td>DemoUser1@CloudLabsAloutlook.onmicrosoft.com</td>
-    </tr>
-    <tr>
-      <td>Teams Login Password</td>
-      <td>Demou$e673&amp;Fhj</td>
-    </tr>
   </tbody>
 </table>
