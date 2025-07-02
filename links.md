@@ -64,6 +64,14 @@
 </div>
 
 <!-- Auth Table -->
+
+| Credentials                                     |
+--------------------------------------------------
+| Username    | <inject key="AzureAdUserEmail" /> |
+---------------------------------------------------
+| Password    | <inject key="AzureAdUserPassword" |
+---------------------------------------------------
+
 <table style="width: 80%; margin: 20px auto; border-collapse: collapse; font-size: 15px; border: 1px solid #ddd;">
   <thead>
     <tr style="background: #f2f2f2;">
