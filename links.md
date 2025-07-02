@@ -77,8 +77,8 @@
 <table>
   <thead>
     <tr>
-      <th>Key</th>
-      <th>Value</th>
+      <th>Resources</th>
+      <th>Links</th>
     </tr>
   </thead>
   <tbody>
