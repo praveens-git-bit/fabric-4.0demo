@@ -65,7 +65,7 @@
 
 <!-- Auth Table -->
 
-| **Credentials** |                                       |
+| ** User Login Credentials** |                                       |
 |-----------------|---------------------------------------|
 | **Username**    | <inject key="AzureAdUserEmail" />     |
 | **Password**    | <inject key="AzureAdUserPassword" />  |
