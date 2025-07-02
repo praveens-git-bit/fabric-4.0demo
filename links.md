@@ -71,26 +71,6 @@
 | **Password**    | <inject key="AzureAdUserPassword" />  |
 
 
-<table style="width: 80%; margin: 20px auto; border-collapse: collapse; font-size: 15px; border: 1px solid #ddd;">
-  <thead>
-    <tr style="background: #f2f2f2;">
-      <th style="padding: 12px 20px; text-align: left;">Field</th>
-      <th style="padding: 12px 20px; text-align: left;">Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px 20px;">Username</td>
-      <td style="padding: 12px 20px;"><inject key="AzureAdUserEmail" /></td>
-    </tr>
-    <tr>
-      <td style="padding: 12px 20px;">Password</td>
-      <td style="padding: 12px 20px;"><inject key="AzureAdUserPassword" /></td>
-    </tr>
-  </tbody>
-</table>
-
-
 <!-- Resource Details Table -->
 <table>
   <thead>
