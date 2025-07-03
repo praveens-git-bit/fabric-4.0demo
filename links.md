@@ -67,10 +67,10 @@
 
 | **User Login Credentials** |                                       |
 |-----------------|---------------------------------------|
-| **Username**    | <inject key="AzureAdUserEmail" />     |
-| **Password**    | <inject key="AzureAdUserPassword" />  |
-| **Teams Login Username** | <inject key="Teams Login UserName" /> |
-| **Teams Login Password** | <inject key="Teams Login Password" /> |
+| Username    | <inject key="AzureAdUserEmail" />     |
+| Password   | <inject key="AzureAdUserPassword" />  |
+| Teams Login Username | <inject key="Teams Login UserName" /> |
+| Teams Login Password | <inject key="Teams Login Password" /> |
 
 
 <!-- Resource Details Table -->
